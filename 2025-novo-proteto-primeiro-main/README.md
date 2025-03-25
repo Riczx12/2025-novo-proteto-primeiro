@@ -1,1 +1,0 @@
-# 2025-novo-proteto-primeiro
