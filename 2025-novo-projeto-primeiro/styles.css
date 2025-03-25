@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #197a29;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #ffd700;
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #197a29;
     font-weight: 600;
 }
 
@@ -79,8 +79,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('https://i.pinimg.com/736x/01/57/b0/0157b0037f792ca8cdc9e8a40dec6f61.jpg') top right no-repeat,
+        url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonsvky4mTtMU6OqhNPeO8H-17fm5BysEsgQ&s') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -108,12 +108,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('https://ih1.redbubble.net/image.5539340709.3875/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('https://static.vecteezy.com/ti/fotos-gratis/p2/24201408-4k-lindo-abstrato-verde-marmore-papel-de-parede-fundo-ruido-estoque-gratis-foto.jpg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #197a29;
     border: none;
     font-weight: bold;
 }
